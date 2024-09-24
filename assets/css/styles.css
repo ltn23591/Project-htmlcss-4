@@ -813,7 +813,6 @@ header {
     position: absolute;
     left: 0;
     top: 0;
-    transition: all 2s;
 }
 .pricing__switch-value {
     z-index: 1;
